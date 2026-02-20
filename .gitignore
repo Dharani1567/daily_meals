@@ -1,0 +1,12 @@
+# Virtual Environment
+mo/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# OS files
+.DS_Store
